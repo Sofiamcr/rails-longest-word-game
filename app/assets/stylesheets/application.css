@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+ .grid{
+  display:inline;
+  background-color: rgba(0, 145, 255, 0.377);
+  color: white;
+  padding: 5px 5px;
+  text-justify: center;
+  border: solid white;
+ }
